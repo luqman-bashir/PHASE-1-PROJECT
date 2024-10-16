@@ -1,0 +1,32 @@
+{
+  "videos": [
+    {
+      "id": "089d",
+      "title": "Understanding CSS",
+      "description": "Learn the basics of CSS and how to style web pages.",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg"
+    },
+    {
+      "id": "5e6f",
+      "title": "Introduction to React",
+      "description": "Getting started with React for beginners.",
+      "url": "https://www.youtube.com/watch?v=dGcsHMXbSOA",
+      "thumbnail": "https://img.youtube.com/vi/dGcsHMXbSOA/0.jpg"
+    },
+    {
+      "id": "b7f2",
+      "title": "mosh",
+      "description": "javascript",
+      "url": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+      "thumbnail": "https://img.youtube.com/vi/W6NZfCO5SIk/0.jpg"
+    },
+    {
+      "id": "cca9",
+      "title": "react",
+      "description": "web dev",
+      "url": "https://www.youtube.com/watch?v=Rh3tobg7hEo",
+      "thumbnail": "https://img.youtube.com/vi/Rh3tobg7hEo/0.jpg"
+    }
+  ]
+}
