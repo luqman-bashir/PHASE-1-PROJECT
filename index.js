@@ -15,7 +15,7 @@ class Video {
 }
 
 function fetchVideos() {
-    return fetch('http://localhost:3000/videos')
+    return fetch('https://phase-1-project-zmhx.onrender.com/videos')
         .then(response => response.json())
         .then(data => {
             renderVideos(data);
@@ -78,7 +78,7 @@ videoForm.addEventListener("submit", function (e) {
 });
 
 function createVideo(video) {
-    fetch('http://localhost:3000/videos', {
+    fetch('https://phase-1-project-zmhx.onrender.com/videos', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
@@ -93,7 +93,7 @@ function createVideo(video) {
 }
 
 function startEditVideo(id) {
-    fetch(`http://localhost:3000/videos/${id}`)
+    fetch(`https://phase-1-project-zmhx.onrender.com/videos/${id}`)
         .then(response => response.json())
         .then(video => {
             document.getElementById("title").value = video.title;
@@ -109,7 +109,7 @@ function startEditVideo(id) {
 }
 
 function updateVideo(id, updatedVideo) {
-    fetch(`http://localhost:3000/videos/${id}`, {
+    fetch(`https://phase-1-project-zmhx.onrender.com/videos/${id}`, {
         method: 'PUT',
         headers: {
             'Content-Type': 'application/json'
@@ -125,7 +125,7 @@ function updateVideo(id, updatedVideo) {
 function deleteVideo(event, id) {
     event.preventDefault();
     if (confirm("Are you sure you want to delete this video?")) {
-        fetch(`http://localhost:3000/videos/${id}`, {
+        fetch(`https://phase-1-project-zmhx.onrender.com/videos/${id}`, {
             method: 'DELETE'
         })
             .then(() => {
