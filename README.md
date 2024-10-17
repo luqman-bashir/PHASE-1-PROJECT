@@ -97,6 +97,10 @@ Push the branch (git push origin feature/your-feature).
 Open a Pull Request.
 Please ensure your code adheres to the project's coding standards and includes proper documentation.
 
+##live server
+* You can view the web live on [video app](https://luqman-bashir.github.io/PHASE-1-PROJECT/)
+
+
 ## Support and contact details
 Email: luqmanbash@gmail.com
 
@@ -110,4 +114,9 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Acknowledgments
+<<<<<<< HEAD:README.md
 This project uses Bootstrap for its responsive layout. JSON Server provides a simple way to mock a backend API.
+=======
+This project uses Bootstrap for its responsive layout.
+JSON Server provides a simple way to mock a backend API.
+>>>>>>> origin/master:README
