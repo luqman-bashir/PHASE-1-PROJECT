@@ -107,7 +107,7 @@ Please ensure your code adheres to the project's coding standards and includes p
 Email: luqmanbash@gmail.com
 
 ## License
-*LIcenced under the [MT-licence]()*
+*LIcenced under the [MT-licence](https://github.com/luqman-bashir/PHASE-1-PROJECT/blob/master/License.md)*
 
 Copyright (c) 2024 **Luqman Bashir**
 
