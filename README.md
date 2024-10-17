@@ -1,6 +1,6 @@
 # Video App
-### The app is Video App, 16/10/2024
-### **By Luqman Bashir**
+### By Luqman Bashir
+### Date: 16/10/2024
 
 ## Description
 The Video App is a web application that allows users to manage a collection of educational videos. Users can search for videos, add new ones, edit existing entries, and delete videos they no longer need. The app features a clean, responsive UI built using Bootstrap, with JavaScript handling the logic for video management, and a JSON server simulating the backend.
@@ -12,6 +12,7 @@ The Video App is a web application that allows users to manage a collection of e
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
+- [Live Demo](#live-demo)
 - [Support and contact details](#support-and-contact-details)
 - [License](#license)
 
@@ -97,9 +98,9 @@ Push the branch (git push origin feature/your-feature).
 Open a Pull Request.
 Please ensure your code adheres to the project's coding standards and includes proper documentation.
 
-##live server
-* You can view the web live on [video app](https://luqman-bashir.github.io/PHASE-1-PROJECT/)
-* render live (https://dashboard.render.com/web/srv-cs81rg08fa8c73bis380/deploys/dep-cs81rg88fa8c73bis3c0?r=2024-10-16%4020%3A09%3A42%7E2024-10-16%4020%3A12%3A33)
+## live Demo
+* You can view the live on GitHub page [video app](https://luqman-bashir.github.io/PHASE-1-PROJECT/)
+* Render live (https://dashboard.render.com/web/srv-cs81rg08fa8c73bis380/deploys/dep-cs81rg88fa8c73bis3c0?r=2024-10-16%4020%3A09%3A42%7E2024-10-16%4020%3A12%3A33)
 
 
 
@@ -111,6 +112,5 @@ Email: luqmanbash@gmail.com
 
 Copyright (c) 2024 **Luqman Bashir**
 
-## Acknowledgments
-This project uses Bootstrap for its responsive layout. JSON Server provides a simple way to mock a backend API.
+
 
