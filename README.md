@@ -99,7 +99,7 @@ Open a Pull Request.
 Please ensure your code adheres to the project's coding standards and includes proper documentation.
 
 ## live Demo
-* You can view the live on GitHub page [video app](https://luqman-bashir.github.io/PHASE-1-PROJECT/)
+* You can view the live on GitHub page (https://luqman-bashir.github.io/PHASE-1-PROJECT/)
 * Render live (https://dashboard.render.com/web/srv-cs81rg08fa8c73bis380/deploys/dep-cs81rg88fa8c73bis3c0?r=2024-10-16%4020%3A09%3A42%7E2024-10-16%4020%3A12%3A33)
 
 
