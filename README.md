@@ -99,7 +99,7 @@ Open a Pull Request.
 Please ensure your code adheres to the project's coding standards and includes proper documentation.
 
 ## live Demo
-* You can view the live on GitHub page[Video App](https://luqman-bashir.github.io/PHASE-1-PROJECT/)
+* You can view the server live on GitHub page[Video App](https://luqman-bashir.github.io/PHASE-1-PROJECT/)
 * Render live[render](https://dashboard.render.com/web/srv-cs81rg08fa8c73bis380/deploys/dep-cs81rg88fa8c73bis3c0?r=2024-10-16%4020%3A09%3A42%7E2024-10-16%4020%3A12%3A33)
 * View my slide [slide](https://www.canva.com/design/DAGT59vHZkw/aRlSyU5LVhLFDJ3iM8OAcw/view?utm_content=DAGT59vHZkw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 * Recording of my project[Recording video](https://app.screencastify.com/v2/manage/videos/gHLSI038NVUe6hoAm3P4)
